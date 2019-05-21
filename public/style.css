@@ -1419,7 +1419,7 @@ margin-bottom: 50px }
   .single-blog-post .post-content {
     position: relative;
     z-index: 10;
-    padding: 30px;
+    margin-bottom: 100px;
     background-color: #ffffff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;

@@ -12,7 +12,7 @@ class Card extends React.Component{
                 <section className="pn-blog-area">        
                   <div className="container">
                     <div className="row">
-                      <div className="col-12 col-lg-7">
+                      <div className="col-12 col-lg-10">
                         <div className="single-blog-post mb-80">
                           <div className="post-content">
                             <a href="#" className="post-title">{this.props.judul}</a>
