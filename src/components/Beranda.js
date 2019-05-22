@@ -1,9 +1,8 @@
 import React from 'react';
 import bgHome from '../home.jpg';
-import '../App.css'
-import Paper from '@material-ui/core/Paper';
+import '../App.css';
 import Grid from '@material-ui/core/Grid';
-import Hu from '../hu.jpg'
+import Hu from '../hu.jpg';
 import Button from '@material-ui/core/Button';
 import {Link} from "react-router-dom";
 

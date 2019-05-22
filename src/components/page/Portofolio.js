@@ -37,7 +37,6 @@ class Portofolio extends React.Component{
             <section className="pn-blog-area">        
               <div className="container">
                 <div className="row">
-                {/* Section Heading */}
                   <div className="col-12">
                     <div className="section-heading text-center">
                       <h2>My Portofolio</h2>

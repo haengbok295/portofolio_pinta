@@ -10,11 +10,9 @@ class Contact extends React.Component{
                 <Header/>
             </div>
             <div>
-              {/* ***** Contact Area Start ***** */}
                 <section className="pn-contact-area section-padding-80">
                   <div className="container">
                     <div className="row justify-content-between">
-                      {/* Contact Form */}
                       <div className="col-12 col-lg-8">
                         <div className="uza-contact-form mb-80">
                           <div className="contact-heading mb-50">
@@ -49,16 +47,14 @@ class Contact extends React.Component{
                                 </div>
                               </div>
                               <div className="col-12">
-                                <a href="#" className="btn pn-btn btn-2 mt-4">Contact Me</a>
+                                <a href="./Contact" className="btn pn-btn btn-2 mt-4">Contact Me</a>
                               </div>
                             </div>
                           </form>
                         </div>
                       </div>
-                      {/* Single Contact Card */}
                       <div className="col-12 col-lg-3">
                         <div className="contact-sidebar-area mb-80">
-                          {/* Single Sidebar Area */}
                           <div className="single-contact-card mb-50">
                             <h4>Contact Me</h4>
                             <h3>083862918039</h3>
@@ -72,7 +68,6 @@ class Contact extends React.Component{
                     </div>
                   </div>
                 </section>
-                {/* ***** Contact Area End ***** */}
       </div>  
       <div>
           <Footer/>

@@ -3,7 +3,7 @@ import Header from '../Header'
 import Footer from '../Footer'
 import {Link} from "react-router-dom";
 import Button from '@material-ui/core/Button';
-import Ha from '../img/ha.png'
+import Ha from '../img/ha.webp'
 
 class Home extends React.Component{
     render() {
@@ -16,12 +16,11 @@ class Home extends React.Component{
               <section className="pn-home-area">
                 <div className="container">
                   <div className="row align-items-center">
-                    {/* About Us Content */}
                     <div className="col-12 col-md-6">
                       <div className="home-content mb-80">
                         <h2>안녕하세요</h2>
                         <h3>Assalamualaikum</h3>
-                        <p>Wlcome to Pinta's Website</p>
+                        <p>Welcome to Pinta's Website</p>
                         <Link to='/profile'>
                             <Button variant="outlined" color="secondary" className="button">
                                 Profile
@@ -29,10 +28,9 @@ class Home extends React.Component{
                         </Link>
                       </div>
                     </div>
-                    {/* About Thumbnail */}
                     <div className="col-12 col-md-6">
                       <div className="home-thumbnail mb-80">
-                        <img src={Ha} alt />
+                        <img src={Ha} alt="home image" />
                       </div>
                     </div>
                   </div>
