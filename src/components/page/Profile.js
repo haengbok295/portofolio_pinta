@@ -26,7 +26,7 @@ class Profile extends React.Component{
                           positive thinking and always spirited. I am a fourth semester student in D3 Computer
                           Science and Informatics System, Universitas Gadjah Mada, who has a high school graduate
                           background.</p>
-                          <a href="./Profile" className="btn pn-btn btn-2 mt-4">Download CV</a>
+                          <a href="https://doc-04-64-docs.googleusercontent.com/docs/securesc/5iuclc8o79ajbfrit8gu3212nupj1d06/q0hruad5rdt8c8e1bqfc9km29uokammf/1558483200000/13360327014916589279/13360327014916589279/1PaxT2XmTilXNzxdioirkENM-RP6uFRmY?e=download" className="btn pn-btn btn-2 mt-4">Download CV</a>
                       </div>
                     </div>
                   </div>
